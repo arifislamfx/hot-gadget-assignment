@@ -68,3 +68,50 @@
     text-align: center;
 
 }
+.container-categories,
+.container-border h2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 50px;
+    text-transform: uppercase;
+    letter-spacing: .3rem;
+    font-weight: 600;
+    margin-top: 80px;
+     color: darkgreen;
+}
+.pale-order img {
+    width: 100%;
+}
+.merge-images0 img {
+    padding: 40px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px 5px 5px 30px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.merge-images1,
+.merge-images2 {
+    padding: 40px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px 5px 30px 5px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.footer-area h5 {
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: darkgrey;
+}
+
+
+
+
+
+
+
+
+
+
+
